@@ -1,0 +1,1 @@
+# Rspec from scratch exercise
